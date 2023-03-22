@@ -1,4 +1,5 @@
-#include <main.h>
+#include "main.h"
+
 /**
  * add - adds two numbers
  * @a: parameter 1
