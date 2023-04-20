@@ -3,6 +3,7 @@
 /**
  * array_iterator - prints each array element on
  * a new line
+ * array: to execute func on
  * @size: how many elements to print
  * @action: pointer to print in regular or hex
  * Return: void
